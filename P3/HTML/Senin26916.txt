@@ -1,0 +1,27 @@
+Senin, 26 September 2016
+
+
+Sesi I :
+- Perkenalan
+
+Sesi 2 :
+- Pengenalan HTML,CSS,JS,PHP
+
+Sesi 3 :
+- Motivasi Pak Aji
+
+Sesi 4 :
+1. Persiapan Enviroment 
+Lite Vesdion:
+
+-Notepad
+-Brtowser Terserah (FF/Crome)
+
+Full Version :
+-Sublime Text/ Atom / Notepad++
+-Crome, Safari (wenkit, FF (Genko)
+
+2. Pengenalan HTML
+
+<b>ini tebal</b>
+<B>Ini tebal</B>

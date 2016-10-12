@@ -1,0 +1,41 @@
+
+___________commant untuk menampilkan nama dan posisi_______________
+
+select pegawai.nama, posisi.nama as id
+from pegawai, posisi
+where pegawai.id_posisi = posisi.id
+
+___________________________________________________________________
+___________commant untuk menampilkan tabel-tabel___________________
+
+select 
+pegawai.id, 
+pegawai.nama, 
+pegawai.telp, 
+posisi.nama as posisi, 
+pegawai.alamat,
+kelamin.jenis_kelamin
+from pegawai, posisi, kelamin
+where pegawai.id_posisi = posisi.id
+
+___________________________________________________________________
+__________________________Delet Row________________________________
+
+Delete
+
+From
+	pegawai [nama tabel]
+Where
+	id = '13' [id ow yg akan dihapus]
+__________________________________________________________________
+___________________untuk mencari data/search______________________
+
+Select
+*
+
+From
+	pegawai [nama tabel]
+
+where
+	nama like '%mu%' [mencari nama yg sesuai keyword]
+__________________________________________________________________

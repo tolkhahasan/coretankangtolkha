@@ -1,0 +1,27 @@
+.box {
+		width: 200px;
+		height: 100px;
+		background: darkblue;
+		position: absolute;
+		left: 50px;
+		top: 50px; 
+		transition: height 0,5s linear;
+	
+	/*background :
+		repeating-linear-gradient(
+			squer at top left, 
+			green,
+			yellow 10px,
+			red 20px,
+			blue 70px,
+			red 10px
+
+		);*/
+
+	}
+
+.box:hover {
+	/*border:10px solid purple;
+	background-color: blue;*/
+	width: 200px
+}
